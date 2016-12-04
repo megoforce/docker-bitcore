@@ -1,0 +1,4 @@
+bitcore:
+  build: .
+  ports: 
+    - "3001:3001"
