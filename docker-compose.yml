@@ -1,4 +1,5 @@
 bitcore:
   build: .
+  container_name: bitcore
   ports: 
     - "3001:3001"
