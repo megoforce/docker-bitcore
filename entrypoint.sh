@@ -1,2 +1,2 @@
-killall -9 bitcoind
+rm /root/.bitcore/data/bitcoind.pid
 bitcored
