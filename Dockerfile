@@ -6,4 +6,4 @@ EXPOSE 3001
 WORKDIR /bitcore
 ADD entrypoint.sh /bitcore
 RUN chmod +x entrypoint.sh
-CMD bitcored
+CMD sh entrypoint.sh

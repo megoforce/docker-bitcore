@@ -3,3 +3,5 @@ bitcore:
   container_name: bitcore
   ports: 
     - "3001:3001"
+  volumes:
+    - "./data:/root/.bitcore/"
