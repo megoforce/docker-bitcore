@@ -1,2 +1,2 @@
-rm /root/.bitcore/data/bitcoind.pid
+rm -rf /root/.bitcore/data/bitcoind.pid
 bitcored
